@@ -97,6 +97,7 @@ pip install netmiko
 
 1. **確認 Port 69 未被佔用**：執行前請關閉電腦上其他 TFTP 軟體（如 Tftpd64）。
 2. **權限要求**：**強烈建議以系統管理員身分 (Administrator / root) 執行**，因為啟動內建 TFTP 伺服器需要綁定特權連接埠 (Port 69)。
+3. Windows 下執行 CMD 命令提示字元執行。
 
 ### 執行主程式
 
