@@ -159,6 +159,3 @@ Project_Folder/
 
 本專案採用 [MIT License](https://www.google.com/search?q=LICENSE) 授權。您可以自由使用、複製、修改、合併、出版發行、散佈、再授權及販售軟體及軟體的副本。
 
-```
-
-```
