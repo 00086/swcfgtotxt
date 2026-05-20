@@ -1,8 +1,5 @@
 # swcfgtotxt
-一鍵備份交換器設定檔
-
 <img width="557" height="213" alt="image01" src="https://github.com/user-attachments/assets/a48c13c2-c641-4f08-9d61-2e340134d42d" />
-
 
 # 🚀 Network Device Config Auto-Backup Tool (網路設備自動備份系統)
 
